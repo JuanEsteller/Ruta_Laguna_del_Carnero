@@ -20,7 +20,7 @@ var config = {
             hidden: false,
             title: 'Acceso al inicio de la ruta por Nigüelas ',
             image: 'images/01.2_MTN_montaje.jpg',
-            description: 'Después de atravesar el núcleo urbano de Nigüelas, seguimos la pista junto al río Torrente en dirección NE. 1 hora de ascenso, aproximadamente, serpenteando laderas de matorral y coníferas. Llama la atención los desprendimientos que amenazan algunos cortijos en la parte baja.  **ese wikiloc no es el que hicimos, falta el descenso desde el circo recortando.** ',
+            description: 'Después de atravesar el núcleo urbano de Nigüelas, seguimos la pista junto al río Torrente en dirección NE. 1 hora de ascenso, aproximadamente, serpenteando laderas de matorral y coníferas. Llama la atención los desprendimientos que amenazan algunos cortijos en la parte baja.',
             location: {
                 center: [-3.49124, 37.03460],
                 zoom: 10.8,
